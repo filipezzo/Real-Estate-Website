@@ -1,0 +1,13 @@
+@import url(./global.css);
+@import url(./components.css);
+@import url(./keyframes.css);
+
+@import url(./header.css);
+@import url(./main.css);
+@import url(./property.css);
+@import url(./feature.css);
+@import url(./video.css);
+@import url(./story.css);
+@import url(./footer.css);
+
+@import url(./media.css);
